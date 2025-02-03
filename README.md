@@ -5,3 +5,5 @@ Useful python scripts
 Python script to set all files to 444 (all read) and all directories to 555 (Read + execute ) 
 
 This is useful for a media server such as Plex or Jellyfin.
+
+On my system this runs significantly faster than the equivilant "find" one liner.
