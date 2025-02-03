@@ -6,4 +6,4 @@ Python script to set all files to 444 (all read) and all directories to 555 (Rea
 
 This is useful for a media server such as Plex or Jellyfin.
 
-On my system this runs significantly faster than the equivilant "find" one liner.
+On my system this runs significantly faster than the same "find" one liner.
